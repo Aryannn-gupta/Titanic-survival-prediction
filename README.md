@@ -1,5 +1,5 @@
-A classic data science project that involves predicting the survival of passengers on the Titanic based on a set of features such as age, sex, passenger class, and more.
-A comprehensive project that helps in understanding various aspects of data science, including data cleaning, feature engineering, model training, and evaluation.
+A classic data science project that involves predicting the survival of passengers on the Titanic based on a set of features such as age, sex, passenger class, and more,
+and that helps in understanding various aspects of data science, including data cleaning, feature engineering, model training, and evaluation.
 An overview of the approach to the project :
 
 >Data Loading: Import the dataset using libraries like Pandas.
